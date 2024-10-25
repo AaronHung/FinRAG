@@ -1,3 +1,9 @@
+# Aaron's config file and .env for API KEY
+#
+.env
+.env/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
